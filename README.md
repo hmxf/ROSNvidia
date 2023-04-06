@@ -1,11 +1,11 @@
-# rosvidia
+# ROS NVIDIA
 Install Robot Operating System (ROS) on NVIDIA Development Board
 
 These scripts will install Robot Operating System (ROS) on the NVIDIA Development Board.
 
 Since the [Origin Repo](https://github.com/jetsonhacks/installROSXavier) didn't update for a long time and L4T's Linux is updated to Ubuntu 20.04 rather than 18.04, so ROS version is also changed from Melodic to Noetic.
 
-If you need Preempt-RT Kernel for your NVIDIA Development Board, [this Repo](https://github.com/hmxf/rtvidia) may help a little.
+If you need Preempt-RT Kernel for your NVIDIA Development Board, [this Repo](https://github.com/hmxf/RTJetson) may help a little.
 
 There are two scripts:
 
