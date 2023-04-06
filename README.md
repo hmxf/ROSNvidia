@@ -16,7 +16,7 @@ Usage:
 <pre>
 Usage: ./installROS.sh -p packageName -v versionName [-h]
   -p | --package <packagename>  ROS package to install
-                                Must include one of the following:
+                                Select from one of the following:
                                   base
                                   desktop
                                   full
