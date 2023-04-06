@@ -25,7 +25,7 @@ Usage: ./installROS.sh -p packageName -v versionName [-h]
                                 Select from one of the following:
                                   melodic
                                   noetic
-  -h | --help  This message
+  -h | --help      This message
 </pre>
 
 Since the script needs to support multiple ROS version options, so the -p option no longer supports specifying the full package name, but only allows you to choose between the three installation methods of ROS-Base, Desktop Install and Desktop-Full Install.
